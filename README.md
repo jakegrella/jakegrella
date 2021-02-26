@@ -3,6 +3,6 @@
 #### javascript, node.js, python, postgresql, c++, html, css
 #### react, react native, express, redux
 
-[@jakegrella](http://twitter.com/jakegrella)
+[jakegrella.com](http://jakegrella.com)
 
 
