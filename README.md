@@ -1,3 +1,3 @@
-interested in crypto and urban planning
+passionate about crypto and urban planning
 
 [jakegrella.com](http://jakegrella.com)
